@@ -1,0 +1,14 @@
+{
+  "name": "yookos-dashboard",
+  "version": "0.0.1",
+  "description": "An application to monitor live Yookos usage statistics",
+  "main": "app-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jome Akpoduado",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
